@@ -92,7 +92,7 @@ add couple thing in tailwind config
 
 ..........
 
-used some tailweind
+used some tailwind
 
  <!-- <div className='text-5xl'>app</div> -->
  .......
